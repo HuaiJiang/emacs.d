@@ -1,0 +1,1 @@
+("~/workspace/rabbitmq-server/" "/usr/local/" "~/.emacs.d/elpa/jedi-core-0.2.7/" "~/workspace/rainbow/")
