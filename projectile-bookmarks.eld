@@ -1,1 +1,1 @@
-("~/workspace/rabbitmq-server/" "/usr/local/" "~/.emacs.d/elpa/jedi-core-0.2.7/" "~/workspace/rainbow/")
+("/home/data/workspace/stackstash/" "~/.emacs.d/" "/home/data/workspace/Theogony/hermes/" "~/workspace/rabbitmq-server/" "/usr/local/" "~/.emacs.d/elpa/jedi-core-0.2.7/" "~/workspace/rainbow/")
